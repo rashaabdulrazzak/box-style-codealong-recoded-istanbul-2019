@@ -1,4 +1,4 @@
-n# CSS Box Style Code Along
+# CSS Box Style Code Along
 
 ## Overview
 
